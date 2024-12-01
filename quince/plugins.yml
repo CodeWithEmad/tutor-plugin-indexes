@@ -1,0 +1,18 @@
+- name: wordpress
+  src: 'tutor-contrib-wordpress'
+  url: 'https://github.com/CodeWithEmad/tutor-contrib-wordpress'
+  author: Emad Rad <codewithemad@gmail.com>
+  maintainer: Emad Rad <codewithemad@gmail.com>
+  description: |
+    Tutor plugin for WordPress. This plugin is designed to assist with the
+    configuration and integration of the Open edX platform with an existing
+    WordPress site.
+
+- name: phpmyadmin
+  src: 'tutor-contrib-phpmyadmin'
+  url: 'https://github.com/CodeWithEmad/tutor-contrib-phpmyadmin'
+  author: Emad Rad <codewithemad@gmail.com>
+  maintainer: Emad Rad <codewithemad@gmail.com>
+  description: |
+    Tutor plugin for phpMyAdmin. This plugin runs phpMyAdmin, a free and
+    open-source administration tool for MySQL and MariaDB.
