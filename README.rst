@@ -7,6 +7,12 @@ it is a reference to many plugins that can then be easily installed and enabled 
 
 For more information about Tutor indexes, see the `official Tutor Documentation`_.
 
+Available Plugins
+*****************
+
+- `wordpress <https://github.com/CodeWithEmad/tutor-contrib-wordpress>`__: Integrates WordPress with Open edX
+- `phpmyadmin <https://github.com/CodeWithEmad/tutor-contrib-phpmyadmin>`__: Adds phpMyAdmin database management interface
+
 Usage
 *****
 
